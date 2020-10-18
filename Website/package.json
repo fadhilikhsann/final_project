@@ -1,0 +1,27 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "My Final Project Web",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "firebase": "^7.15.2",
+    "firebase-admin": "^8.12.1",
+    "md5": "^2.2.1"
+  },
+  "devDependencies": {
+    "first-input-delay": "^0.1.3"
+  },
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "Fadhil Ikhsan",
+  "license": "ISC"
+}
